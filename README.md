@@ -12,16 +12,16 @@ Languages = Persian, English
 
 # Skills
 
-- HTML5 <img alt="html_logo" src="https://github.com/alireza0sfr/alireza0sfr/blob/main/assets/images/html.png" width="20" height="20">
-- CSS3 <img alt="css_logo" src="https://github.com/alireza0sfr/alireza0sfr/blob/main/assets/images/css.png" width="20" height="20">
+- HTML5 <img alt="html_logo" src="https://github.com/alireza0sfr/alireza0sfr/blob/master/assets/images/html.png" width="20" height="20">
+- CSS3 <img alt="css_logo" src="https://github.com/alireza0sfr/alireza0sfr/blob/master/assets/images/css.png" width="20" height="20">
 
     - BOOTSTRAP 5
 
-- JAVASCRIPT <img alt="js_logo" src="https://github.com/alireza0sfr/alireza0sfr/assets/images/js.png" width="20" height="20">
+- JAVASCRIPT <img alt="js_logo" src="https://github.com/alireza0sfr/alireza0sfr/blob/master/assets/images/js.png" width="20" height="20">
     - VUE.JS 
     - Nuxt.JS
 
-- PYTHON <img alt="py_logo" src="https://github.com/alireza0sfr/alireza0sfr/assets/images/python.png" width="20" height="20">
+- PYTHON <img alt="py_logo" src="https://github.com/alireza0sfr/alireza0sfr/blob/master/assets/images/python.png" width="20" height="20">
     - Django
 
 # Contacts
