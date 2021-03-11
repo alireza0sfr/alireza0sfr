@@ -26,9 +26,9 @@ Languages = Persian, English
 
 # Contacts
 
-[Gmail](alireza.safaree@gmail.com)
+[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](alireza.safaree@gmail.com)
 
-[Linkedin](https://www.linkedin.com/in/alireza-safari-3b23231bb)
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/alireza-safari-3b23231bb)
 
 [Ponisha](https://ponisha.ir/profile/alireza.safari)
 
