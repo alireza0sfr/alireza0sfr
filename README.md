@@ -26,7 +26,7 @@ Languages = Persian, English
 
 # Contacts
 
-Gmail = alireza.safaree@gmail.com
+[Gmail](alireza.safaree@gmail.com)
 
 [Linkedin](https://www.linkedin.com/in/alireza-safari-3b23231bb)
 
