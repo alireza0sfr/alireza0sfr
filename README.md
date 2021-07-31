@@ -1,15 +1,5 @@
 <h1> Hi There, <strong>Welcome To My profile.</strong> 😊 </h1>
 
-# About Me
-
-Age = 18
-
-Location = Iran, Fars, Shiraz
-
-Field of Study = Computer Engineering at Shiraz Azad University
-
-Languages = Persian, English 
-
 # Skills
 
 - HTML5 <img alt="html_logo" src="https://github.com/alireza0sfr/alireza0sfr/blob/master/assets/images/html.png" width="20" height="20">
