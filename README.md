@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/alireza0sfr/alireza0sfr/blob/main/assets/banner.png" />
+<img src="https://github.com/alireza0sfr/alireza0sfr/blob/master/assets/banner.png" />
 
 <p align="center">
 
