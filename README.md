@@ -1,13 +1,12 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/assets/banner.png" />
+<img src="https://github.com/alireza0sfr/alireza0sfr/blob/main/assets/banner.png" />
 
 <p align="center">
- 
- <!-- <img src="https://badges.pufler.dev/visits/alireza0sfr/alireza0sfr"/>  -->
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
+
+ <img src="https://badges.pufler.dev/years/alireza0sfr"/>
+ <img src="https://badges.pufler.dev/repos/alireza0sfr"/>
  <img src="https://badges.pufler.dev/commits/monthly/alireza0sfr" />
 
 </p>
@@ -85,7 +84,7 @@
   <i><b>Currently Playing🎶...</b></i>
   <br><br>
   <a href="https://open.spotify.com/user/2ggxbytyoyk6usxb122yynzm8?si=5702e7a79d4a4a9b"/>
-    <img src="assets/handles/spotify.png" alt="Spotify"/>
+    <img src="assets/handles/spotify.png" width="50px" align="center" alt="Spotify"/>
   </a>
   <br>
   <a href="https://open.spotify.com/user/2ggxbytyoyk6usxb122yynzm8?si=5702e7a79d4a4a9b"/>
