@@ -84,11 +84,7 @@
   <i><b>Currently Playing🎶...</b></i>
   <br><br>
   <a href="https://open.spotify.com/user/2ggxbytyoyk6usxb122yynzm8?si=5702e7a79d4a4a9b"/>
-    <img src="assets/handles/spotify.png" width="50px" align="center" alt="Spotify"/>
-  </a>
-  <br>
-  <a href="https://open.spotify.com/user/2ggxbytyoyk6usxb122yynzm8?si=5702e7a79d4a4a9b"/>
-    [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/2ggxbytyoyk6usxb122yynzm8?si=5702e7a79d4a4a9b)
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2ggxbytyoyk6usxb122yynzm8&count=1" alt="Spotify"/>
   </a>
 </p>
 
