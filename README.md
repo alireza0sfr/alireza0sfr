@@ -1,11 +1,11 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+<img src="https://github.com/ritik307/ritik307/blob/main/assets/banner.png" />
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/alireza0sfr/alireza0sfr"/> 
+ <!-- <img src="https://badges.pufler.dev/visits/alireza0sfr/alireza0sfr"/>  -->
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/ritik307"/>
  <img src="https://badges.pufler.dev/commits/monthly/alireza0sfr" />
@@ -17,11 +17,11 @@
 </p>
 
 <p align="left">
-spider_web I'm interested in AI.
+🕸️ I'm interested AI.
 
-book I'm currently learning Django
+📖 I'm currently learning Django
 
-handshake I'm looking to collaborate on any open source projects using Javascript, Python
+🤝 I'm looking to collaborate on any open source projects using Javascript & Python
 
 </p>
 
@@ -63,13 +63,6 @@ handshake I'm looking to collaborate on any open source projects using Javascrip
 </p>
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/alireza0sfr/alireza0sfr/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
  
@@ -92,11 +85,11 @@ handshake I'm looking to collaborate on any open source projects using Javascrip
   <i><b>Currently Playing🎶...</b></i>
   <br><br>
   <a href="https://open.spotify.com/user/2ggxbytyoyk6usxb122yynzm8?si=5702e7a79d4a4a9b"/>
-    <img src="https://novatorem-lostgirljourney.vercel.app/api/spotify" alt="Spotify"/>
+    <img src="assets/handles/spotify.png" alt="Spotify"/>
   </a>
   <br>
   <a href="https://open.spotify.com/user/2ggxbytyoyk6usxb122yynzm8?si=5702e7a79d4a4a9b"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2ggxbytyoyk6usxb122yynzm8?si=5702e7a79d4a4a9b&count=1" alt="Spotify"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2ggxbytyoyk6usxb122yynzm8&count=1" alt="Spotify"/>
   </a>
 </p>
 
