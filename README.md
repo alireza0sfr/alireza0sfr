@@ -88,7 +88,7 @@
   </a>
   <br>
   <a href="https://open.spotify.com/user/2ggxbytyoyk6usxb122yynzm8?si=5702e7a79d4a4a9b"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2ggxbytyoyk6usxb122yynzm8&count=1" alt="Spotify"/>
+    [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/2ggxbytyoyk6usxb122yynzm8?si=5702e7a79d4a4a9b)
   </a>
 </p>
 
