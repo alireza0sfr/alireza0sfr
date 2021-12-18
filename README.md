@@ -83,8 +83,8 @@
 <p align="center"> 
   <i><b>Currently Playing🎶...</b></i>
   <br><br>
-  <a href="https://open.spotify.com/user/2ggxbytyoyk6usxb122yynzm8?si=5702e7a79d4a4a9b"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2ggxbytyoyk6usxb122yynzm8&count=1" alt="Spotify"/>
+  <a href="https://open.spotify.com/user/31dwqta4kkl4y5f3j2ggdv5j2yse"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dwqta4kkl4y5f3j2ggdv5j2yse&count=1" alt="Spotify"/>
   </a>
 </p>
 
