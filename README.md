@@ -76,9 +76,9 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=alireza0sfr&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=alireza0sfr&theme=redical">
-</p>
+</p> -->
 
 <!-- <p align="center"> 
   <i><b>Currently Playing🎶...</b></i>
