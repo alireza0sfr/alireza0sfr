@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  I'm a 2nd year student pursuing Bachelor's in Software Engineering 🎓 from Shiraz Azad University University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems ✨
+  I'm a 3rd year student pursuing Bachelor's in Software Engineering 🎓 from Shiraz Azad University University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems ✨
 </p>
 
 <p align="left">
@@ -80,13 +80,13 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=alireza0sfr&theme=redical">
 </p>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <i><b>Currently Playing🎶...</b></i>
   <br><br>
   <a href="https://open.spotify.com/user/31dwqta4kkl4y5f3j2ggdv5j2yse"/>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dwqta4kkl4y5f3j2ggdv5j2yse&count=1" alt="Spotify"/>
   </a>
-</p>
+</p> -->
 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
