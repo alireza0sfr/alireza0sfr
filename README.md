@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  I'm a 3rd year student pursuing Bachelor's in Software Engineering 🎓 from Shiraz Azad University University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems ✨
+  I'm a 4th year student pursuing Bachelor's in Software Engineering 🎓 from Shiraz Azad University University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems ✨
 </p>
 
 <p align="left">
 🕸️ I'm interested AI.
 
-📖 I'm currently learning Django
+📖 I'm currently learning Kubernetes
 
 🤝 I'm looking to collaborate on any open source projects using Javascript & Python
 
